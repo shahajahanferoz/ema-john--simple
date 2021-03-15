@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+
+.product-details{
+    border-left: 1px solid rebeccapurple;
+    padding-left: 120x;
+    
+}
+.product-img{
+    margin-right: 15px;
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
+.cart-button{
+    background-color: goldenrod;
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    border: 1px solid darkgoldenrod;
+    cursor: pointer;
+}
